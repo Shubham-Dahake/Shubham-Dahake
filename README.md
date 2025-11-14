@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/PwG8s0K.png" width="100%" />
+<img src="Screenshot 2025-11-06 203330" width="100%" />
 
 <h1 align="center">SHUBHAM DAHAKE</h1>
 
