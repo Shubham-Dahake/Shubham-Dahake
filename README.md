@@ -1,64 +1,53 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<style>
-    body {
-        background: #111;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-        color: white;
-        font-family: Arial;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frame</title>
 
-    .frame-box {
-        position: relative;
-        width: 600px;
-    }
+    <style>
+        body {
+            background: #111;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: white;
+            font-family: Arial;
+        }
 
-    .frame-box img {
-        width: 100%;
-        display: block;
-    }
+        .frame-box {
+            width: 300px;
+            padding: 20px;
+            border: 3px solid transparent;
+            border-image: linear-gradient(45deg, #ff007f, #00eaff) 1;
+            border-radius: 15px;
+            text-align: center;
+        }
 
-    .text-content {
-        position: absolute;
-        top: 52%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        text-align: center;
-        width: 70%;
-    }
+        .frame-box img {
+            width: 100%;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
 
-    .text-content h1 {
-        font-size: 38px;
-        margin-bottom: 15px;
-    }
+        .frame-box h2 {
+            margin: 0;
+            font-size: 22px;
+        }
 
-    .text-content p {
-        font-size: 20px;
-        line-height: 30px;
-    }
-</style>
+        .frame-box p {
+            margin: 5px 0;
+            font-size: 14px;
+        }
+    </style>
 </head>
 
 <body>
-
-<div class="frame-box">
-    <img src="blue_border.png">
-
-    <div class="text-content">
-        <h1>SHUBHAM DAHAKE</h1>
-        <p>
-            🌐 Web Developer <br>
-            💻 C, C++, Python, HTML <br>
-            🚀 Learning & Building Projects
-        </p>
+    <div class="frame-box">
+        <img src="blue_border.png" alt="Profile">
+        <h2>Your Name</h2>
+        <p>Web Developer | C, C++, Python</p>
     </div>
-</div>
-
 </body>
 </html>
-
