@@ -1,24 +1,64 @@
-<div style="position: relative; width: 400px; margin: auto;">
-  <img src="—Pngtree—bule border_3551748.png" 
-       alt="Border Image" 
-       style="width: 100%; display: block;">
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body {
+        background: #111;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        color: white;
+        font-family: Arial;
+    }
 
-  <!-- TEXT INSIDE THE PICTURE -->
-  <div style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    font-family: Arial, sans-serif;
-    color: black;
-    width: 80%;
-  ">
-    <h1 style="margin: 0; font-size: 24px;">SHUBHAM DAHAKE</h1>
-    <p style="font-size: 16px; margin-top: 10px;">
-      🌐 Web Developer <br>
-      💻 C, C++, Python, HTML <br>
-      🚀 Learning & Building Projects
-    </p>
-  </div>
+    .frame-box {
+        position: relative;
+        width: 600px;
+    }
+
+    .frame-box img {
+        width: 100%;
+        display: block;
+    }
+
+    .text-content {
+        position: absolute;
+        top: 52%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        width: 70%;
+    }
+
+    .text-content h1 {
+        font-size: 38px;
+        margin-bottom: 15px;
+    }
+
+    .text-content p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="frame-box">
+    <img src="blue_border.png">
+
+    <div class="text-content">
+        <h1>SHUBHAM DAHAKE</h1>
+        <p>
+            🌐 Web Developer <br>
+            💻 C, C++, Python, HTML <br>
+            🚀 Learning & Building Projects
+        </p>
+    </div>
 </div>
+
+</body>
+</html>
+
