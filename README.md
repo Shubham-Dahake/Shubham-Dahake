@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  🌐 Web Developer | 💻 C, C++, Python, HTML | 🚀 Learning & Building Projects
+  💻 C, C++, Python, HTML | 🌐 Web Developer  | 🚀 Learning & Building Projects
 </p>
 </body>
 </html>
