@@ -6,9 +6,7 @@
     
 </head>
 <body>
-<h1 style="text-align:center ;">SHUBHAM&nbsp;&nbsp;DAHAKE</h1>
-
-
+<h1 style="text-align:center ;">SHUBHAM DAHAKE</h1>
 <p align="center">
   💻 C, C++, Python, HTML | 🌐 Web Developer  | 🚀 Learning & Building Projects
 </p>
