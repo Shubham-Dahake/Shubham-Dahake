@@ -6,12 +6,12 @@
     
 </head>
 <body>
-    <p
+    
 <h1
     style="text-align:center;">
     <i>SHUBHAM&nbsp;&nbsp;DAHAKE </i>
 </h1>
-</p>
+
 <p align="center">
   💻 C, C++, Python, HTML | 🌐 Web Developer  | 🚀 Learning & Building Projects
 </p>
