@@ -8,7 +8,7 @@
 <body>
 <h1
     style="text-align:center;">
-    <u>SHUBHAM&nbsp;&nbsp;DAHAKE </u>
+    <i>SHUBHAM&nbsp;&nbsp;DAHAKE </i>
 </h1>
 <p align="center">
   💻 C, C++, Python, HTML | 🌐 Web Developer  | 🚀 Learning & Building Projects
