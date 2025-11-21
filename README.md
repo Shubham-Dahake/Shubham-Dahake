@@ -11,7 +11,7 @@
 
 
 <pre align="center">
-  💻 C , C++ , Python , HTML | 🌐 Web Developer  | 🚀 Learning & Building Projects
+  💻 C, C++, Python, HTML | 🌐 Web Developer  | 🚀 Learning & Building Projects
 </pre>
 </body>
 </html>
