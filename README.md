@@ -10,8 +10,8 @@
 <h1 align="center"><em>SHUBHAM&nbsp;&nbsp;DAHAKE</em></h1>
 
 
-<pre align="center">
+<p align="center">
   💻 C,C++,Python,HTML | 🌐 Web Developer  | 🚀 Learning & Building Projects
-</pre>
+</p>
 </body>
 </html>
