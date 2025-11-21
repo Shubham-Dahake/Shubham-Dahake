@@ -7,9 +7,8 @@
 </head>
 <body>
     
-<h1
-    style="text-align:center;">
-    <i>SHUBHAM&nbsp;&nbsp;DAHAKE </i>
+<h1 style="text-align:center;">
+   <i>SHUBHAM&nbsp;&nbsp;DAHAKE</i>
 </h1>
 
 <p align="center">
