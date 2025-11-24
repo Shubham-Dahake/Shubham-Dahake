@@ -1,61 +1,71 @@
 <h1 align="center">⚡ Shubham Dahake</h1>
-<h3 align="center">Dark Web Developer • Frontend Focused • Future Full-Stack</h3>
+<h3 align="center">Web Developer • Frontend Focused • Future Full-Stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-Dahake&label=PROFILE+VIEWS&color=grey&style=flat" />
-</p>
-
-<hr>
-
-<h2>👨‍💻 About Me</h2>
-
-<ul>
-  <li>💻 Web Developer (Frontend Focus)</li>
-  <li>📚 Learning React, JavaScript Advanced</li>
-  <li>🔥 Building real-world projects</li>
-  <li>🎯 Goal: Professional Full-Stack Developer</li>
-  <li>📍 India</li>
-</ul>
-
-<hr>
-
-<h2>🛠️ Tech Stack</h2>
-
-<p>
-HTML | CSS | JavaScript | React | Git | GitHub | VS Code
-</p>
-
-<hr>
-
-<h2>🚀 Featured Project</h2>
-
-<p>
-BMI Calculator →  
-https://github.com/Shubham-Dahake/BMI-calculator
-</p>
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Dahake&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Dark+Web+Developer;HTML+CSS+JavaScript+React;Building+Projects+Daily;Learning+and+Growing+Everyday" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dahake&theme=dark&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=Shubham-Dahake&label=PROFILE+VIEWS&color=111111&style=flat" />
 </p>
 
-<hr>
+---
 
-<h2>🌐 Connect With Me</h2>
+## 👨‍💻 About Me
 
-<p>
-📧 Email: your-email@example.com  
-📸 Instagram: your-instagram  
-💼 LinkedIn: your-linkedin
+- 🔥 Passionate **Web Developer**
+- 💻 Focused on **Frontend Development**
+- 🌱 Learning **JavaScript & React**
+- 🎯 Goal: **Professional Full-Stack Developer**
+- 📍 **India**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
-<hr>
+---
 
-<h3 align="center">⚫ Discipline • Code • Consistency ⚫</h3>
+## 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/Shubham-Dahake/BMI-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Dahake&repo=BMI-calculator&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Dahake&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dahake&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Dahake&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/your-instagram">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">⚫ DISCIPLINE • CODE • CONSISTENCY ⚫</h2>
