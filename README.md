@@ -1,21 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
+# Hi there 👋, I'm Shubham Dahake
 
-<h1 align="center"><em>SHUBHAM&nbsp;&nbsp;DAHAKE</em></h1>
+## 🚀 About Me
+- 💻 Web Developer (in progress)
+- 🌱 Currently learning: HTML, CSS, JavaScript
+- 🎯 Goal: Become a Full-Stack Developer
+- 📍 From: India
 
+## 🔧 Skills & Tools
+- HTML5
+- CSS3
+- JavaScript (Basics)
+- Git & GitHub
+- VS Code
 
-<p align="center">
-  💻 C , C++ , Python , HTML | 🌐 Web Developer  | 🚀 Learning & Building Projects
-</p>
-<br>
- <a href="https://www.instagram.com/shubham_patil.31?igsh=MWp2enlkbmVsYnY4Nw==" target="_blank">
-    Connect with me on Instagram
-  </a>
-</body>
-</html>
+## 📚 Currently Working On
+- Personal Portfolio Website  
+- Daily Coding Practice  
+- Improving JavaScript  
+
+## 📊 GitHub Stats
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 📫 Connect with me
+- 📧 Email: your-email@example.com  
+- 📸 Instagram: your-instagram  
+- 💼 LinkedIn: your-linkedin  
+
+---
+⭐ *Keep learning, keep building*
