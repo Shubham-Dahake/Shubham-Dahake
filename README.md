@@ -18,8 +18,7 @@
 - Daily Coding Practice  
 - Improving JavaScript  
 
-## 📊 GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
 
 ## 📫 Connect with me
 - 📧 Email: your-email@example.com  
