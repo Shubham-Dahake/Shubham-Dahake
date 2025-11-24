@@ -1,8 +1,13 @@
+<!-- 🔥 TOP COLORFUL BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=SHUBHAM%20%20DAHAKE&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling" width="100%"/>
+</p>
+
 <h1 align="center">⚡ Shubham Dahake</h1>
 <h3 align="center">Web Developer • Frontend Focused • Future Full-Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Dark+Web+Developer;HTML+CSS+JavaScript+React;Building+Projects+Daily;Learning+and+Growing+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Shubham+Dahake;Dark+Web+Developer;HTML+CSS+JavaScript+React;Building+Projects+Daily;Learning+and+Growing+Everyday" />
 </p>
 
 <p align="center">
@@ -24,7 +29,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,bootstrap,nodejs" />
 </p>
 
 ---
@@ -33,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/Shubham-Dahake/BMI-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Dahake&repo=BMI-calculator&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Dahake&repo=BMI-calculator&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -55,17 +60,22 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="shubhamdahake28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:shubhamdahake28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://www.instagram.com/shubham_patil.31?igsh=MWp2enlkbmVsYnY4Nw==">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink"/>
   </a>
   <a href="https://www.linkedin.com/in/shubham-dahake-68b558388/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue"/>
   </a>
 </p>
 
 ---
 
 <h2 align="center">⚫ DISCIPLINE • CODE • CONSISTENCY ⚫</h2>
+
+<!-- 🔥 BOTTOM COLORFUL BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Shubham%20%20Dahake&fontSize=35&fontAlign=50&fontAlignY=60&color=gradient&section=footer&animation=twinkling" width="100%"/>
+</p>
