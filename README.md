@@ -1,52 +1,61 @@
-<h1 align="center">Hi 👋 I'm Shubham Dahake</h1>
-<h3 align="center">Web Developer | Frontend Focused</h3>
+<h1 align="center">⚡ Shubham Dahake</h1>
+<h3 align="center">Dark Web Developer • Frontend Focused • Future Full-Stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-Dahake&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Shubham-Dahake&label=PROFILE+VIEWS&color=grey&style=flat" />
 </p>
 
----
+<hr>
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-- Passionate **Web Developer**
-- Learning **HTML, CSS, JavaScript, React**
-- Building projects and improving daily
-- Goal: **Full-Stack Developer**
+<ul>
+  <li>💻 Web Developer (Frontend Focus)</li>
+  <li>📚 Learning React, JavaScript Advanced</li>
+  <li>🔥 Building real-world projects</li>
+  <li>🎯 Goal: Professional Full-Stack Developer</li>
+  <li>📍 India</li>
+</ul>
 
----
+<hr>
 
-## 🛠️ Tech Skills
+<h2>🛠️ Tech Stack</h2>
 
-HTML • CSS • JavaScript • React • Git • GitHub • VS Code
+<p>
+HTML | CSS | JavaScript | React | Git | GitHub | VS Code
+</p>
 
----
+<hr>
 
-## 📌 Projects
+<h2>🚀 Featured Project</h2>
 
-- ✅ BMI Calculator  
-  https://github.com/Shubham-Dahake/BMI-calculator
+<p>
+BMI Calculator →  
+https://github.com/Shubham-Dahake/BMI-calculator
+</p>
 
-- ✅ Portfolio (in progress)
+<hr>
 
-- ✅ JavaScript Mini Projects (coming)
+<h2>📊 GitHub Stats</h2>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Dahake&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dahake&theme=dark&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shubham-Dahake&show_icons=true&theme=dark" />
+<hr>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Dahake&theme=dark" />
+<h2>🌐 Connect With Me</h2>
 
----
+<p>
+📧 Email: your-email@example.com  
+📸 Instagram: your-instagram  
+💼 LinkedIn: your-linkedin
+</p>
 
-## 📫 Contact
+<hr>
 
-Email: your-email@example.com  
-Instagram: your-instagram  
-LinkedIn: your-linkedin  
-
----
-
-⭐ Discipline + Code + Consistency
+<h3 align="center">⚫ Discipline • Code • Consistency ⚫</h3>
