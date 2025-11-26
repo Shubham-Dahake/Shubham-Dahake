@@ -15,11 +15,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 Passionate *Web Developer*
-- 💻 Focused on *Frontend Development*
-- 🌱 Learning *JavaScript & React*
-- 🎯 Goal: *Professional Web Developer*
-- 📍 *India*
+- 🔥 Passionate **Web Developer**
+- 💻 Focused on **Frontend Development**
+- 🌱 Learning **JavaScript & React**
+- 🎯 Goal: **Professional Web Developer**
+- 📍 **India**
 
 ---
 
