@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=SHUBHAM%20%20DAHAKE&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling" width="100%"/>
 </p>
 
-<h1 align="center">⚡ Web. Code. Create.</h1>
+<h1 align="center">⚡Web. Code. Create.</h1>
 <h3 align="center">Web Developer • Frontend Focused </h3>
 
 <p align="center">
