@@ -7,10 +7,12 @@
 <h3 align="center">Web Developer • Frontend Focused </h3>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-family: 'Fira Code', monospace; font-size: 22px;">
-    Shubham Dahake • Dark Web Developer • HTML CSS JavaScript React • Building Projects Daily • Learning and Growing Everyday
-  </marquee>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=650&lines=Dark+Web+Developer;HTML+CSS+JavaScript+React;Building+Projects+Daily;Learning+and+Growing+Everyday" 
+    alt="Scrolling text"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shubham-Dahake&label=PROFILE+VIEWS&color=111111&style=flat" />
