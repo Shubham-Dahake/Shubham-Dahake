@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">⚡ Web. Code. Create.</h1>
-<h3 align="center">Web Developer • Frontend Focused • Future Full-Stack</h3>
+<h3 align="center">Web Developer • Frontend Focused </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Shubham+Dahake;Dark+Web+Developer;HTML+CSS+JavaScript+React;Building+Projects+Daily;Learning+and+Growing+Everyday" />
