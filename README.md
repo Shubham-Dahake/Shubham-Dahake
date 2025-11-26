@@ -21,7 +21,7 @@
 - 🔥 Passionate **Web Developer**
 - 💻 Focused on **Frontend Development**
 - 🌱 Learning **JavaScript & React**
-- 🎯 Goal: **Professional Full-Stack Developer**
+- 🎯 Goal: **Professional Web Developer**
 - 📍 **India**
 
 ---
