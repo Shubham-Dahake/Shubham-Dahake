@@ -5,30 +5,10 @@
 
 <h1 align="center">⚡Web. Code. Create.</h1>
 <h3 align="center">Web Developer • Frontend Focused </h3>
-<p align="center" style="background:#0d1117;">
+
 <p align="center">
-
-<svg width="100%" height="40" viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text {
-      font-family: 'Fira Code', monospace;
-      font-size: 22px;
-      fill: white;
-    }
-  </style>
-
-  <text x="100%" y="28" class="text">
-    Dark Web Developer | HTML CSS JavaScript React | Building Projects Daily | Learning and Growing Everyday
-    <animate attributeName="x"
-             from="100%"
-             to="-200%"
-             dur="15s"
-             repeatCount="indefinite" />
-  </text>
-</svg>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Shubham+Dahake;Dark+Web+Developer;HTML+CSS+JavaScript+React;Building+Projects+Daily;Learning+and+Growing+Everyday" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shubham-Dahake&label=PROFILE+VIEWS&color=111111&style=flat" />
@@ -38,15 +18,15 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 Passionate **Web Developer**
-- 💻 Focused on **Frontend Development**
-- 🌱 Learning **JavaScript & React**
-- 🎯 Goal: **Professional Web Developer**
-- 📍 **India**
+- 🔥 Passionate *Web Developer*
+- 💻 Focused on *Frontend Development*
+- 🌱 Learning *JavaScript & React*
+- 🎯 Goal: *Professional Web Developer*
+- 📍 *India*
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠 Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,bootstrap,nodejs" />
