@@ -6,22 +6,23 @@
 <h1 align="center">⚡Web. Code. Create.</h1>
 <h3 align="center">Web Developer • Frontend Focused </h3>
 <p align="center" style="background:#0d1117;">
+<p align="center">
 
-<svg width="100%" height="50" viewBox="0 0 1000 50" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="40" viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg">
   <style>
     .text {
       font-family: 'Fira Code', monospace;
       font-size: 22px;
-      fill: #00ffd5;
+      fill: white;
     }
   </style>
 
-  <text x="100%" y="32" class="text">
+  <text x="100%" y="28" class="text">
     Dark Web Developer | HTML CSS JavaScript React | Building Projects Daily | Learning and Growing Everyday
     <animate attributeName="x"
              from="100%"
-             to="-220%"
-             dur="12s"
+             to="-200%"
+             dur="15s"
              repeatCount="indefinite" />
   </text>
 </svg>
