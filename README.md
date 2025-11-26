@@ -18,15 +18,15 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 Passionate *Web Developer*
-- 💻 Focused on *Frontend Development*
-- 🌱 Learning *JavaScript & React*
-- 🎯 Goal: *Professional Web Developer*
-- 📍 *India*
+- 🔥 Passionate **Web Developer**
+- 💻 Focused on **Frontend Development**
+- 🌱 Learning **JavaScript & React**
+- 🎯 Goal: **Professional Web Developer**
+- 📍 **India**
 
 ---
 
-## 🛠 Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,bootstrap,nodejs" />
