@@ -47,8 +47,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Dahake&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
- <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats-git-masterrstaa-rickstaa.vercel.app/?user=Shubham-Dahake&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shubham-Dahake&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 
