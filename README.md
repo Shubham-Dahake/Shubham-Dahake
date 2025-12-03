@@ -44,9 +44,14 @@
 ## 🔗 Connect With Me
 
 <p align="center">
+<p align="center">
+  
   <a href="mailto:shubhamdahake28@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+</p>
+
 
   <a href="https://www.instagram.com/shubham_patil.31?igsh=MWp2enlkbmVsYnY4Nw==">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink"/>
