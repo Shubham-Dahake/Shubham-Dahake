@@ -34,9 +34,7 @@
 ## 🚀 Featured Project
 
 <p align="center">
-  <a href="https://github.com/Shubham-Dahake/BMI-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham-Dahake&repo=BMI-calculator&theme=tokyonight&hide_border=true"/>
-  </a>
+  🌐 Live Demo 👉<a href="https://github.com/Shubham-Dahake/BMI-calculator">BMI_Calculator</a>
 </p>
 
 <p align="center">
