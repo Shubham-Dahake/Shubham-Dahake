@@ -33,12 +33,12 @@
 
 ## 🚀 Featured Project
 
-<p align="center">
-  🌐 Live Demo 👉<a href="https://github.com/Shubham-Dahake/BMI-calculator">BMI_Calculator</a>
-</p>
 
 <p align="center">
   🌐 Live Demo 👉 <a href="https://shubham-dahake.github.io/">https://shubham-dahake.github.io/</a>
+</p>
+<p align="center">
+  🌐 Live Demo 👉<a href="https://github.com/Shubham-Dahake/BMI-calculator">BMI_Calculator</a>
 </p>
 
 
