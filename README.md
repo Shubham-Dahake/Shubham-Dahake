@@ -1,65 +1,24 @@
-<!-- 🔥 TOP COLORFUL BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Shubham%20%20Dahake&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling" width="100%"/>
-</p>
 
-<h1 align="center">⚡Web. Code. Create.</h1>
-<h3 align="center">Web Developer • Frontend Focused </h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubham_patil.31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shubham Dahake) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamdahake28@gmail.com) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shubham -Dahake&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shubham -Dahake&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham -Dahake&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-Dahake&label=PROFILE+VIEWS&color=111111&style=flat" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shubham -Dahake&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 👨‍💻 About Me
-
-- 🔥 Passionate **Web Developer**
-- 💻 Focused on **Frontend Development**
-- 🌱 Learning **JavaScript**
-- 🎯 Goal: **Professional Web Developer**
-- 📍 **India**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shubham -Dahake&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Shubham -Dahake&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,bootstrap,nodejs" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-
-<p align="center">
-  🌐 Live Demo 👉 <a href="https://shubham-dahake.github.io/">https://shubham-dahake.github.io/</a>
-</p>
-<p align="center">
-  🌐 Live Demo 👉<a href="https://github.com/Shubham-Dahake/BMI-calculator">BMI_Calculator</a>
-</p>
-
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.instagram.com/shubham_patil.31?igsh=MWp2enlkbmVsYnY4Nw==">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-dahake-68b558388/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">🔴DISCIPLINE • CODE • CONSISTENCY 🔴</h2>
-
-<!-- 🔥 BOTTOM COLORFUL BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Shubham%20%20Dahake&fontSize=35&fontAlign=50&fontAlignY=60&color=gradient&section=footer&animation=twinkling" width="100%"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
