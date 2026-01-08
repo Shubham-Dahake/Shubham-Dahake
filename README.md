@@ -17,7 +17,7 @@
 
 - 🔥 Passionate **Web Developer**
 - 💻 Focused on **Frontend Development**
-- 🌱 Learning **JavaScript**
+- 🌱 Learning **Python**
 - 🎯 Goal: **Professional Web Developer**
 - 📍 **India**
 
