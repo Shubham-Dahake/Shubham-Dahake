@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">☁️ Cloud. DevOps. Automate.</h1>
-<h3 align="center">🚀BCS Graduate • Cloud Computing Learner </h3>
+<h3 align="center">🎓BCS Graduate • Cloud Computing Learner🚀 </h3>
 
 
 <p align="center">
