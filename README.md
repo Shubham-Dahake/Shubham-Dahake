@@ -56,7 +56,7 @@
   <a href="https://www.instagram.com/shubham_patil.31?igsh=MWp2enlkbmVsYnY4Nw==">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink"/>
   </a>
-  
+    </a>
   <a href="https://www.linkedin.com/in/shubham-dahake-68b558388/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue"/>
   </a>
