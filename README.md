@@ -32,7 +32,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,bootstrap,nodejs" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
