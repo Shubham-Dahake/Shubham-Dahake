@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠 Languages & Tools
+## 🛠 Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
