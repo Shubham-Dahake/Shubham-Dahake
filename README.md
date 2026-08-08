@@ -64,7 +64,7 @@
 
 ---
 
-<h2 align="center">☁️ CLOUD • COMPUTE • SCALE ☁️</h2>
+<h2 align="center">🚀 CLOUD • COMPUTE • SCALE 🚀</h2>
 
 <!-- 🔥 BOTTOM COLORFUL BANNER -->
 <p align="center">
