@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Shubham%20%20Dahake&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling" width="100%"/>
 </p>
 
-<h1 align="center">⚡Web. Code. Create.</h1>
-<h3 align="center">Web Developer • Frontend Focused </h3>
+<h1 align="center">☁️ Cloud. DevOps. Automate.</h1>
+<h3 align="center">🚀BCS Graduate • Cloud Computing Learner </h3>
 
 
 <p align="center">
@@ -15,11 +15,17 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 Passionate **Web Developer**
-- 💻 Focused on **Frontend Development**
-- 🌱 Learning **Python**
-- 🎯 Goal: **Professional Web Developer**
+- 🎓 **BCS Graduate**
+- ☁️ Learning **Cloud Computing**
+- 🚀 Aspiring **AWS Cloud & DevOps Engineer**
+- 🐧 Learning **Linux & Networking**
+- ☁️ Working with **AWS & Cloud Infrastructure**
+- 🐳 Exploring **Docker & Kubernetes**
+- 🔄 Learning **CI/CD & DevOps Automation**
+- 🏗️ Exploring **Terraform & Ansible**
+- 💻 Familiar with **Python & SQL**
 - 📍 **India**
+
 
 ---
 
